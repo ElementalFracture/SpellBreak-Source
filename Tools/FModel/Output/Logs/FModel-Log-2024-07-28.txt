@@ -1,0 +1,761 @@
+2024-07-28 18:32:27 [FModel] [INF] Version 4.4.3.6
+2024-07-28 18:32:27 [FModel] [INF] Windows 11 Pro (64-bit)
+2024-07-28 18:32:27 [FModel] [INF] .NET 8.0.7
+2024-07-28 18:32:27 [FModel] [INF] Culture en-GB
+2024-07-28 18:33:55 [FModel] [INF] Successfully downloaded oodle dll at "D:\Projects\SpellBreak\FModel (1)\Output\.data\oo2core_9_win64.dll"
+2024-07-28 18:33:57 [FModel] [INF] Successfully downloaded zlib-ng dll at "D:\Projects\SpellBreak\FModel (1)\Output\.data\zlib-ng2.dll"
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef_100_percent.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef_200_percent.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef_extensions.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\devtools_resources.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\am.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ar.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\bg.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\bn.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ca.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\cs.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\da.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\de.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\el.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\en-GB.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\en-US.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\es-419.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\es.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\et.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fa.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fi.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fil.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\gu.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\he.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\hi.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\hr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\hu.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\id.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\it.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ja.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\kn.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ko.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\lt.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\lv.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ml.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\mr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ms.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\nb.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\nl.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\pl.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\pt-BR.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\pt-PT.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ro.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ru.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sk.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sl.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sv.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sw.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ta.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\te.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\th.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\tr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\uk.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\vi.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\zh-CN.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\zh-TW.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:33:58 [FModel] [INF] GAME_UE4_28 (DesktopMobile) | Archives: x2 | AES: x0
+2024-07-28 18:33:58 [FModel] [INF] Pak "CrashReportClient.pak": 6422 files, mount point: "Engine/", version 8 in 00:00:00.0187923
+2024-07-28 18:33:59 [FModel] [INF] Pak "g3-WindowsNoEditor.pak": 69274 files, version 8 in 00:00:00.1511444
+2024-07-28 18:33:59 [FModel] [INF] Project: g3 | Mounted: 2/2 | AES: 1/1
+2024-07-28 18:33:59 [FModel] [INF] ["Get"] [OK(200)] 'https://api.fmodel.app/v1/news/4.4.3.6?game=g3'
+2024-07-28 18:34:00 [FModel] [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Projects\SpellBreak\FModel (1)\Output\.data\avcodec-vgmstream-59.dll'.
+File name: 'D:\Projects\SpellBreak\FModel (1)\Output\.data\avcodec-vgmstream-59.dll'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.File.OpenRead(String path)
+   at FModel.ViewModels.ApplicationViewModel.InitVgmStream()
+   at FModel.ViewModels.ApplicationViewModel.InitVgmStream()
+   at FModel.MainWindow.OnLoaded(Object sender, RoutedEventArgs e)
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2024-07-28 18:34:01 [FModel] [INF] @sky124 (841054935826300989) is now ready
+2024-07-28 18:34:16 [FModel] [INF] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2024-07-28 18:34:16 [FModel] [INF] Version 4.4.3.6
+2024-07-28 18:34:16 [FModel] [INF] Windows 11 Pro (64-bit)
+2024-07-28 18:34:16 [FModel] [INF] .NET 8.0.7
+2024-07-28 18:34:16 [FModel] [INF] Culture en-GB
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef_100_percent.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef_200_percent.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\cef_extensions.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\devtools_resources.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\am.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ar.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\bg.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\bn.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ca.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\cs.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\da.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\de.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\el.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\en-GB.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\en-US.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\es-419.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\es.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\et.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fa.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fi.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fil.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\fr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\gu.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\he.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\hi.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\hr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\hu.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\id.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\it.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ja.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\kn.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ko.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\lt.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\lv.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ml.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\mr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ms.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\nb.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\nl.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\pl.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\pt-BR.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\pt-PT.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ro.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ru.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sk.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sl.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sv.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\sw.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\ta.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\te.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\th.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\tr.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\uk.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\vi.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\zh-CN.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [WRN] CUE4Parse.UE4.Exceptions.ParserException: File D:\Projects\SpellBreak\client\Engine\Binaries\ThirdParty\CEF3\Win64\Resources\locales\zh-TW.pak has an unknown format
+   at CUE4Parse.UE4.Pak.Objects.FPakInfo.ReadFPakInfo(FArchive Ar)
+   at CUE4Parse.UE4.Pak.PakFileReader..ctor(FArchive Ar)
+   at CUE4Parse.FileProvider.Vfs.AbstractVfsFileProvider.RegisterVfs(FArchive archive, Stream stream, Func`2 openContainerStreamFunc)
+2024-07-28 18:34:17 [FModel] [INF] GAME_UE4_28 (DesktopMobile) | Archives: x2 | AES: x0
+2024-07-28 18:34:17 [FModel] [INF] Pak "CrashReportClient.pak": 6422 files, mount point: "Engine/", version 8 in 00:00:00.0223821
+2024-07-28 18:34:17 [FModel] [INF] Pak "g3-WindowsNoEditor.pak": 69274 files, version 8 in 00:00:00.0957964
+2024-07-28 18:34:17 [FModel] [INF] Project: g3 | Mounted: 2/2 | AES: 1/1
+2024-07-28 18:34:17 [FModel] [INF] ["Get"] [OK(200)] 'https://api.fmodel.app/v1/news/4.4.3.6?game=g3'
+2024-07-28 18:34:18 [FModel] [INF] @sky124 (841054935826300989) is now ready
+2024-07-28 18:34:34 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Content/Internationalization/icudt53l/brkitr/el.res'
+2024-07-28 18:34:50 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Plugins/Wwise/Content/S_AkComponent.uasset'
+2024-07-28 18:34:50 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (11)
+FAssetArchive Info: g3/Plugins/Wwise/Content/S_AkComponent.uexp | Pos:537460 Length:537468 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:34:57 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Config/Windows/WindowsEngine.ini'
+2024-07-28 18:35:18 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Blueprints/Accolades/Capture/BP_Accolade_Capture_Exile_Defense_Tier_1.uasset'
+2024-07-28 18:35:18 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -20, name map size 76
+FAssetArchive Info: g3/Content/Blueprints/Accolades/Capture/BP_Accolade_Capture_Exile_Defense_Tier_1.uexp | Pos:44 Length:1034 (4.3% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:35:22 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Blueprints/Accolades/Capture/BP_Accolade_CapturePoint_All.uasset'
+2024-07-28 18:35:22 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -18, name map size 71
+FAssetArchive Info: g3/Content/Blueprints/Accolades/Capture/BP_Accolade_CapturePoint_All.uexp | Pos:44 Length:884 (5.0% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:36:46 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Characters/NPC/Guard/NPC_GuardSpawn_Vertical_Montage.uasset'
+2024-07-28 18:37:20 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Movies/Tutorial/Textures/AviraIntro_Loop_Static.uasset'
+2024-07-28 18:37:20 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (14)
+FAssetArchive Info: g3/Content/Movies/Tutorial/Textures/AviraIntro_Loop_Static.uexp | Pos:1037097 Length:1037105 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:37:20 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Movies/Tutorial/Textures/T_FMS_Tutorial_ElementalLesson.uasset'
+2024-07-28 18:37:20 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (13)
+FAssetArchive Info: g3/Content/Movies/Tutorial/Textures/T_FMS_Tutorial_ElementalLesson.uexp | Pos:461097 Length:461105 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:37:21 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Movies/Tutorial/Textures/T_FMS_Tutorial_RuneLesson.uasset'
+2024-07-28 18:37:21 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (13)
+FAssetArchive Info: g3/Content/Movies/Tutorial/Textures/T_FMS_Tutorial_RuneLesson.uexp | Pos:461097 Length:461105 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:37:21 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Movies/Tutorial/Textures/T_FMS_Tutorial_SquadLesson.uasset'
+2024-07-28 18:37:22 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (13)
+FAssetArchive Info: g3/Content/Movies/Tutorial/Textures/T_FMS_Tutorial_SquadLesson.uexp | Pos:461097 Length:461105 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:37:32 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Cheats/QA.txt'
+2024-07-28 18:37:45 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Cheats/README.txt'
+2024-07-28 18:37:57 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Cheats/AutoComplete.txt'
+2024-07-28 18:39:23 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Blueprints/Weapons/v3/Projectiles/Scrolls/BP_Projectile_Scroll_Pyromancer_Conflagration.uasset'
+2024-07-28 18:39:24 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -8, name map size 215
+FAssetArchive Info: g3/Content/Blueprints/Weapons/v3/Projectiles/Scrolls/BP_Projectile_Scroll_Pyromancer_Conflagration.uexp | Pos:128 Length:14950 (0.9% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:39:24 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -7, name map size 207
+FAssetArchive Info: g3/Content/Blueprints/Weapons/v3/Projectiles/BP_Projectile_Fire_Primary.uexp | Pos:99 Length:18027 (0.5% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:39:52 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Blueprints/PvE/Camps/BP_PvE_Camp_Encounter.uasset'
+2024-07-28 18:39:52 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -19, name map size 157
+FAssetArchive Info: g3/Content/Blueprints/PvE/Camps/BP_PvE_Camp_Encounter.uexp | Pos:73 Length:1747 (4.2% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Blueprints/Modes/Test/TestGameMode.uasset'
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -62, name map size 266
+FAssetArchive Info: g3/Content/Blueprints/Modes/Test/TestGameMode.uexp | Pos:145 Length:4224 (3.4% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -22, name map size 50
+FAssetArchive Info: g3/Content/Blueprints/Modes/BattleRoyale/BP_BattleRoyaleAccoladeSettings.uexp | Pos:44 Length:215 (20.5% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -4, name map size 20
+FAssetArchive Info: g3/Content/Blueprints/Modes/BattleRoyale/BP_BattleRoyaleCharClassesComp.uexp | Pos:44 Length:117 (37.6% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -4, name map size 20
+FAssetArchive Info: g3/Content/Blueprints/Modes/BattleRoyale/BP_BattleRoyaleInstructionsSettings.uexp | Pos:44 Length:117 (37.6% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -10, name map size 34
+FAssetArchive Info: g3/Content/Blueprints/Modes/BattleRoyale/BP_BattleRoyalePortalSettings.uexp | Pos:44 Length:230 (19.1% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -4, name map size 20
+FAssetArchive Info: g3/Content/Blueprints/Modes/MatchEnd/BP_GameModeMatchEndComponent.uexp | Pos:44 Length:117 (37.6% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:41 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -6, name map size 24
+FAssetArchive Info: g3/Content/Blueprints/Modes/BP_QuestGameMode_Settings.uexp | Pos:44 Length:133 (33.1% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:40:46 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Blueprints/Modes/Test/BP_BattleRoyale_SoloQuickStart.uasset'
+2024-07-28 18:40:47 [FModel] [ERR] Could not read BlueprintGeneratedClass correctly
+CUE4Parse.UE4.Exceptions.ParserException: FName could not be read, requested index -25, name map size 197
+FAssetArchive Info: g3/Content/Blueprints/Modes/Test/BP_BattleRoyale_SoloQuickStart.uexp | Pos:129 Length:2652 (4.9% done)
+   at CUE4Parse.UE4.Objects.UObject.UClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Objects.Engine.UBlueprintGeneratedClass.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:41:25 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset'
+2024-07-28 18:41:25 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (12)
+FAssetArchive Info: Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp | Pos:16700 Length:16708 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:41:26 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset'
+2024-07-28 18:41:26 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (12)
+FAssetArchive Info: Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp | Pos:44287 Length:44295 (100.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:41:27 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset'
+2024-07-28 18:41:27 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (12)
+FAssetArchive Info: Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp | Pos:6043 Length:6051 (99.9% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:41:27 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset'
+2024-07-28 18:41:27 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (12)
+FAssetArchive Info: Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp | Pos:3255 Length:3263 (99.8% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:41:35 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Config/Windows/WindowsGame.ini'
+2024-07-28 18:41:47 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Config/Windows/WindowsEngine.ini'
+2024-07-28 18:42:14 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Config/Windows/WindowsGame.ini'
+2024-07-28 18:42:16 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Config/Windows/WindowsEngine.ini'
+2024-07-28 18:42:33 [FModel] [INF] User DOUBLE-CLICKED to extract 'Engine/Plugins/AI/AISupport/AISupport.uplugin'
+2024-07-28 18:43:15 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Plugins/ProletariatOnline/ProletariatOnline.uplugin'
+2024-07-28 18:47:26 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Data/Bots/DT_BotNames.uasset'
+2024-07-28 18:47:50 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/M_Character_Toon_Base.uasset'
+2024-07-28 18:47:50 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (13)
+FAssetArchive Info: g3/Content/Materials/DefaultMask.uexp | Pos:1173 Length:1181 (99.3% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:47:51 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_Character_Teammate_Highlight.uasset'
+2024-07-28 18:47:51 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_Character_Toon_Core.uasset'
+2024-07-28 18:47:51 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (7)
+FAssetArchive Info: Engine/Content/EngineResources/WhiteSquareTexture.uexp | Pos:1041 Length:1049 (99.2% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:47:51 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (13)
+FAssetArchive Info: Engine/Content/EngineMaterials/FlatNormal.uexp | Pos:808 Length:816 (99.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:47:52 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (12)
+FAssetArchive Info: g3/Content/Characters/Gauntlet/Textures/FireGauntlet01_PrpTE.uexp | Pos:3411 Length:3419 (99.8% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:47:56 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_Character_Toon_Core.uasset'
+2024-07-28 18:47:56 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (7)
+FAssetArchive Info: Engine/Content/EngineResources/WhiteSquareTexture.uexp | Pos:1041 Length:1049 (99.2% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:47:56 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (13)
+FAssetArchive Info: Engine/Content/EngineMaterials/FlatNormal.uexp | Pos:808 Length:816 (99.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:47:56 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (12)
+FAssetArchive Info: g3/Content/Characters/Gauntlet/Textures/FireGauntlet01_PrpTE.uexp | Pos:3411 Length:3419 (99.8% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:48:00 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_Character_Toon_Shell.uasset'
+2024-07-28 18:48:00 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (11)
+FAssetArchive Info: g3/Content/VFX/Character/Skills/T_CausticEnergy.uexp | Pos:3339 Length:3347 (99.8% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:48:00 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (11)
+FAssetArchive Info: g3/Content/VFX/Textures/T_f_RainbowBlurred.uexp | Pos:823 Length:831 (99.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:48:00 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_StructureFloat.uasset'
+2024-07-28 18:48:01 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_Character_Toon_ShellOpacity.uasset'
+2024-07-28 18:48:03 [FModel] [INF] User CTRL-CLICKED to extract 'g3/Content/Materials/Helpers/MF_TransluscentToonErosion.uasset'
+2024-07-28 18:48:04 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_StructureFloat.uasset'
+2024-07-28 18:48:07 [FModel] [INF] User CTRL-CLICKED to extract 'Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset'
+2024-07-28 18:48:16 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/Character/MF_Character_Toon_Shell.uasset'
+2024-07-28 18:48:16 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (11)
+FAssetArchive Info: g3/Content/VFX/Character/Skills/T_CausticEnergy.uexp | Pos:3339 Length:3347 (99.8% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:48:16 [FModel] [ERR] Could not read Texture2D correctly
+CUE4Parse.UE4.Exceptions.ParserException: Invalid bool value (11)
+FAssetArchive Info: g3/Content/VFX/Textures/T_f_RainbowBlurred.uexp | Pos:823 Length:831 (99.0% done)
+   at CUE4Parse.UE4.Assets.Exports.Texture.FTexturePlatformData..ctor(FAssetArchive Ar, UTexture Owner)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture.DeserializeCookedPlatformData(FAssetArchive Ar, Boolean bSerializeMipData)
+   at CUE4Parse.UE4.Assets.Exports.Texture.UTexture2D.Deserialize(FAssetArchive Ar, Int64 validPos)
+   at CUE4Parse.UE4.Assets.AbstractUePackage.DeserializeObject(UObject obj, FAssetArchive Ar, Int64 serialSize)
+2024-07-28 18:48:28 [FModel] [INF] User CTRL-CLICKED to extract 'g3/Content/VFX/Character/Skills/C_BodyShell_HealthEmissiveBase.uasset'
+2024-07-28 18:48:55 [FModel] [INF] User DOUBLE-CLICKED to extract 'g3/Content/Materials/UI/UI_Radial_Slot.uasset'
+2024-07-28 18:49:17 [FModel] [INF] User CTRL-CLICKED to extract 'Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset'
+2024-07-28 18:59:08 [FModel] [INF] ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
