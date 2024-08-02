@@ -69,7 +69,6 @@ for /f "tokens=*" %%a in (%TRACKER_FILE%) do (
     rem Mark all files in filelist.txt as unchanged in git
     if exist filelist.txt (
         for /f "delims=" %%f in (filelist.txt) do (
-            pause
             git update-index --assume-unchanged "%%f"
             
         )
