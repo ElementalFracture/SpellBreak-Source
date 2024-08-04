@@ -1,6 +1,8 @@
 [submodule "extracted_client"]
 	path = extracted_client
 	url = https://github.com/ElementalFracture/SpellBreak-Extracted-Client
+	ignore = dirty
 [submodule "extracted_server"]
 	path = extracted_server
 	url = https://github.com/ElementalFracture/SpellBreak-Extracted-Server
+	ignore = dirty
